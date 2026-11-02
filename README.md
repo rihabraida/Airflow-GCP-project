@@ -49,13 +49,13 @@ after extraction succeeds. The optional quality-check task is not added yet.
 
 ### Composer environment running (Healthy)
 
-![Composer environment running in europe-west9](<Screenshot from 2026-10-30 21-06-52.png>)
+![Composer environment running in europe-west9](worldbank_pipeline/Screenshot%20from%202026-10-30%2021-06-52.png)
 
 ### BigQuery query results
 
 Result of `SELECT * FROM raw_worldbank.indicators LIMIT 20`:
 
-![World Bank indicators loaded into BigQuery](<Screenshot from 2026-11-01 17-47-04.png>)
+![World Bank indicators loaded into BigQuery](worldbank_pipeline/Screenshot%20from%202026-11-01%2017-47-04.png)
 
 ## Terraform exercise: short answers
 
