@@ -1,0 +1,101 @@
+country_code,country_name,indicator_code,indicator_label,year,value,load_date
+MAR,Morocco,NY.GDP.MKTP.CD,GDP (current US$),2023,146036093666.762,2026-10-30
+MAR,Morocco,NY.GDP.MKTP.CD,GDP (current US$),2022,131245312804.483,2026-10-30
+MAR,Morocco,NY.GDP.MKTP.CD,GDP (current US$),2021,142022058447.231,2026-10-30
+MAR,Morocco,NY.GDP.MKTP.CD,GDP (current US$),2020,121353645057.144,2026-10-30
+MAR,Morocco,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.0911415250414,2026-10-30
+MAR,Morocco,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.65704202759066,2026-10-30
+MAR,Morocco,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.40195883962005,2026-10-30
+MAR,Morocco,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.70596866133826,2026-10-30
+MAR,Morocco,SP.POP.TOTL,"Population, total",2023,37712505.0,2026-10-30
+MAR,Morocco,SP.POP.TOTL,"Population, total",2022,37329064.0,2026-10-30
+MAR,Morocco,SP.POP.TOTL,"Population, total",2021,36954442.0,2026-10-30
+MAR,Morocco,SP.POP.TOTL,"Population, total",2020,36584208.0,2026-10-30
+MAR,Morocco,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,8.896,2026-10-30
+MAR,Morocco,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,9.413,2026-10-30
+MAR,Morocco,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,10.551,2026-10-30
+MAR,Morocco,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,11.189,2026-10-30
+MAR,Morocco,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,75.313,2026-10-30
+MAR,Morocco,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,75.161,2026-10-30
+MAR,Morocco,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,73.385,2026-10-30
+MAR,Morocco,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.133,2026-10-30
+TUN,Tunisia,NY.GDP.MKTP.CD,GDP (current US$),2023,48205328303.3398,2026-10-30
+TUN,Tunisia,NY.GDP.MKTP.CD,GDP (current US$),2022,44929920092.7955,2026-10-30
+TUN,Tunisia,NY.GDP.MKTP.CD,GDP (current US$),2021,47073234359.1819,2026-10-30
+TUN,Tunisia,NY.GDP.MKTP.CD,GDP (current US$),2020,42491780918.361,2026-10-30
+TUN,Tunisia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,9.32899597507865,2026-10-30
+TUN,Tunisia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,8.30646124447623,2026-10-30
+TUN,Tunisia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,5.706350208307,2026-10-30
+TUN,Tunisia,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,5.63415115897624,2026-10-30
+TUN,Tunisia,SP.POP.TOTL,"Population, total",2023,12200431.0,2026-10-30
+TUN,Tunisia,SP.POP.TOTL,"Population, total",2022,12119334.0,2026-10-30
+TUN,Tunisia,SP.POP.TOTL,"Population, total",2021,12048622.0,2026-10-30
+TUN,Tunisia,SP.POP.TOTL,"Population, total",2020,11974057.0,2026-10-30
+TUN,Tunisia,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,15.106,2026-10-30
+TUN,Tunisia,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,15.3,2026-10-30
+TUN,Tunisia,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,16.632,2026-10-30
+TUN,Tunisia,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,17.651,2026-10-30
+TUN,Tunisia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,76.508,2026-10-30
+TUN,Tunisia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,76.05,2026-10-30
+TUN,Tunisia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,72.893,2026-10-30
+TUN,Tunisia,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,75.004,2026-10-30
+DZA,Algeria,NY.GDP.MKTP.CD,GDP (current US$),2023,247923887214.655,2026-10-30
+DZA,Algeria,NY.GDP.MKTP.CD,GDP (current US$),2022,225581644702.568,2026-10-30
+DZA,Algeria,NY.GDP.MKTP.CD,GDP (current US$),2021,186231205262.082,2026-10-30
+DZA,Algeria,NY.GDP.MKTP.CD,GDP (current US$),2020,164873415325.201,2026-10-30
+DZA,Algeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,9.32217375928322,2026-10-30
+DZA,Algeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,9.26551551551552,2026-10-30
+DZA,Algeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,7.22606307415477,2026-10-30
+DZA,Algeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,2.41513094083413,2026-10-30
+DZA,Algeria,SP.POP.TOTL,"Population, total",2023,46164219.0,2026-10-30
+DZA,Algeria,SP.POP.TOTL,"Population, total",2022,45477389.0,2026-10-30
+DZA,Algeria,SP.POP.TOTL,"Population, total",2021,44761099.0,2026-10-30
+DZA,Algeria,SP.POP.TOTL,"Population, total",2020,44042091.0,2026-10-30
+DZA,Algeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,11.645,2026-10-30
+DZA,Algeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,12.382,2026-10-30
+DZA,Algeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,13.656,2026-10-30
+DZA,Algeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,14.08,2026-10-30
+DZA,Algeria,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,76.261,2026-10-30
+DZA,Algeria,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,76.129,2026-10-30
+DZA,Algeria,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,75.208,2026-10-30
+DZA,Algeria,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,73.257,2026-10-30
+EGY,"Egypt, Arab Rep.",NY.GDP.MKTP.CD,GDP (current US$),2023,395926071447.591,2026-10-30
+EGY,"Egypt, Arab Rep.",NY.GDP.MKTP.CD,GDP (current US$),2022,476747720364.742,2026-10-30
+EGY,"Egypt, Arab Rep.",NY.GDP.MKTP.CD,GDP (current US$),2021,424671765455.704,2026-10-30
+EGY,"Egypt, Arab Rep.",NY.GDP.MKTP.CD,GDP (current US$),2020,383817841547.099,2026-10-30
+EGY,"Egypt, Arab Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,33.8847763115546,2026-10-30
+EGY,"Egypt, Arab Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,13.8956609775177,2026-10-30
+EGY,"Egypt, Arab Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,5.21404940513042,2026-10-30
+EGY,"Egypt, Arab Rep.",FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,5.04493288977538,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2023,114535772.0,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2022,112618250.0,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2021,110957008.0,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,"Population, total",2020,109315124.0,2026-10-30
+EGY,"Egypt, Arab Rep.",SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,6.753,2026-10-30
+EGY,"Egypt, Arab Rep.",SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,6.546,2026-10-30
+EGY,"Egypt, Arab Rep.",SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,7.441,2026-10-30
+EGY,"Egypt, Arab Rep.",SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,7.974,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,71.633,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,71.01,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,68.976,2026-10-30
+EGY,"Egypt, Arab Rep.",SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,69.79,2026-10-30
+FRA,France,NY.GDP.MKTP.CD,GDP (current US$),2023,3056250648138.29,2026-10-30
+FRA,France,NY.GDP.MKTP.CD,GDP (current US$),2022,2794788137066.94,2026-10-30
+FRA,France,NY.GDP.MKTP.CD,GDP (current US$),2021,2966433692008.09,2026-10-30
+FRA,France,NY.GDP.MKTP.CD,GDP (current US$),2020,2647926055110.05,2026-10-30
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.88000215969119,2026-10-30
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,5.22294079215231,2026-10-30
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.64090620368408,2026-10-30
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.477700847097022,2026-10-30
+FRA,France,SP.POP.TOTL,"Population, total",2023,68372286.0,2026-10-30
+FRA,France,SP.POP.TOTL,"Population, total",2022,68184457.0,2026-10-30
+FRA,France,SP.POP.TOTL,"Population, total",2021,67842811.0,2026-10-30
+FRA,France,SP.POP.TOTL,"Population, total",2020,67601110.0,2026-10-30
+FRA,France,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,7.335,2026-10-30
+FRA,France,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,7.303,2026-10-30
+FRA,France,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,7.871,2026-10-30
+FRA,France,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,8.009,2026-10-30
+FRA,France,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,82.8317073170732,2026-10-30
+FRA,France,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,82.1292682926829,2026-10-30
+FRA,France,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,82.3243902439024,2026-10-30
+FRA,France,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,82.1756097560976,2026-10-30
