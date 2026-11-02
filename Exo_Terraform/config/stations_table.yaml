@@ -1,0 +1,13 @@
+table_id: stations
+description: "Reference information about weather stations by city."
+
+schema:
+  - name: city
+    type: STRING
+    mode: REQUIRED
+  - name: region
+    type: STRING
+    mode: NULLABLE
+  - name: elevation_m
+    type: FLOAT64
+    mode: NULLABLE

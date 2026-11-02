@@ -1,0 +1,18 @@
+buckets:
+  - name: hr-uploads
+    location: europe-west9
+    storage_class: STANDARD
+    force_destroy: true
+    labels:
+      env: lab
+      lesson: "5"
+      managed_by: terraform
+
+  - name: public-data-raw
+    location: europe-west9
+    storage_class: STANDARD
+    force_destroy: true
+    labels:
+      env: lab
+      lesson: "5"
+      managed_by: terraform

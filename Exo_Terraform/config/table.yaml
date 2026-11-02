@@ -1,0 +1,49 @@
+# Everything Terraform needs to know about the BigQuery table.
+# The `schema` list below is converted straight into BigQuery's field
+# definitions by main.tf — add/remove a field here and re-apply, no HCL
+# changes needed.
+table_id: weather_readings
+description: >-
+  Weather readings, one row per city per pipeline run. Same schema as the
+  table the Lesson 3 Python ETL lab creates implicitly — here it is
+  declared explicitly, before any data is loaded.
+
+clustering: [city]
+
+partitioning:
+  type: DAY
+  field: ingestion_timestamp
+
+schema:
+  - name: city
+    type: STRING
+    mode: REQUIRED
+    description: "City name, e.g. Casablanca"
+  - name: country
+    type: STRING
+    mode: REQUIRED
+  - name: latitude
+    type: FLOAT64
+    mode: NULLABLE
+  - name: longitude
+    type: FLOAT64
+    mode: NULLABLE
+  - name: temperature_c
+    type: FLOAT64
+    mode: NULLABLE
+  - name: humidity_pct
+    type: FLOAT64
+    mode: NULLABLE
+  - name: wind_speed_kmh
+    type: FLOAT64
+    mode: NULLABLE
+  - name: weather_code
+    type: INT64
+    mode: NULLABLE
+  - name: ingestion_timestamp
+    type: TIMESTAMP
+    mode: REQUIRED
+    description: "UTC timestamp set by the ingestion script, used for daily partitioning"
+  - name: pressure_hpa
+    type: FLOAT64
+    mode: NULLABLE

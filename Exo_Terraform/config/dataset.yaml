@@ -1,0 +1,15 @@
+# Everything Terraform needs to know about the BigQuery dataset.
+# Change values here and re-run `terraform apply` — no .tf edits required.
+dataset_id: weather_lab_tf
+friendly_name: "Weather Lab (Terraform)"
+description: >-
+  Dataset provisioned declaratively with Terraform for the Data Engineering
+  Deep Dive lab (Lesson 4). Same shape as the weather_lab dataset from the
+  Lesson 3 ETL pipeline, but this time infrastructure-as-code owns it.
+location: europe-west9
+delete_contents_on_destroy: true
+labels:
+  env: lab
+  lesson: "4"
+  managed_by: terraform
+  owner: "rraida"
